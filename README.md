@@ -1,7 +1,7 @@
 # Python-for-Machine-Learning
 
-## Who am I
-Hey, I am Dhrubaraj Roy I started learning ML.
+## Hey, I am Dhrubaraj Roy
+I started learning ML.
 
 
 
